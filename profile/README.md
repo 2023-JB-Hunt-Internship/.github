@@ -1,12 +1,8 @@
-## Hi there 👋
+# Welcome to the JB Hunt Internship!
 
-<!--
+## This small project will simulate you working for Junder Blifflin Paper Company as a software engineer.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This project is to get you situated with the way we do things at JB Hunt. You will get practice using Spring, Angular, Docker, Postman, and much more! 
+
+There will be a total of 12 assigments on Github Classroom, including this as the very first one. 
